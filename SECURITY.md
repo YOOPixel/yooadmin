@@ -6,7 +6,7 @@ If you discover a security vulnerability in YOOAdmin, please do NOT open a publi
 
 Instead, report it privately by emailing:
 
-security@yoopixel.com
+security@yooadmin.io
 
 Please include:
 - A description of the vulnerability
